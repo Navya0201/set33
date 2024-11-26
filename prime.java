@@ -1,4 +1,4 @@
-public class Prime {
+public class prime {
     public static void main(String[] args) {
         int number = 29; // Specify the number to check here
 
